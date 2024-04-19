@@ -98,7 +98,7 @@ charge_status: approved, cancelled
 transaction_ts: transaction timestamp
 reviews: contains information about driver reviews once rides are completed
 review_id: primary id of review
-ride_id: foreign key to ride
+ride_id: foreign kegit y to ride
 driver_id: foreign key to driver
 user_id: foreign key to user (requester)
 rating: rating from 0 to 5
