@@ -1,6 +1,3 @@
-Full Name: Mahbubur Rahman
-Email: mahbubur.rahman2194@gmail.com
-
 
 Link to Tableau story: https://public.tableau.com/views/MetrocarFunnelAnalysisJourneyInsightsStory/StorySlides?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
