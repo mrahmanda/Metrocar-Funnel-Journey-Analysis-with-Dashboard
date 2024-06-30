@@ -1,4 +1,4 @@
-Final dashboard was uploaded to Tableau public and can be accessed fro README.md file.
+Final dashboard was uploaded to Tableau public and can be accessed from README.md file.
 
 I will finish this article answering business questions using this dashboard.
 
